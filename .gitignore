@@ -1,1 +1,24 @@
+<<<<<<< HEAD
 /data
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+git rm -r .ipynb_checkpoints/
+
+# ignore repo MSongsDB
+MSongsDB/
+>>>>>>> 0cd1840b07611fd0f675a8331d475989ab63f577
