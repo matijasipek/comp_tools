@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 /data
 /MillionSongSubset
 train_triplets.txt
-triplets_1000.txt
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,4 +23,3 @@ git rm -r .ipynb_checkpoints/
 
 # ignore repo MSongsDB
 MSongsDB/
->>>>>>> 0cd1840b07611fd0f675a8331d475989ab63f577
