@@ -1,5 +1,4 @@
 
-data/
 MillionSongSubset/
 train_triplets.txt
 *.DS_store
